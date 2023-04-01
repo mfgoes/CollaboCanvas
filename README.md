@@ -81,5 +81,5 @@ CollaboCanvasis released under the MIT License. See the **[LICENSE](https://chat
 
 ## **Contact**
 
-For any questions, issues, or suggestions, please open an issue on GitHub or contact the project owner at **`mfgoes1@gmail.com.com`**.
-
+For any questions, issues, or suggestions, please open an issue on GitHub or contact the project owner at **`mfgoes1@gmail.com`**.
+https://twitter.com/MischaProjects
