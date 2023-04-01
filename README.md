@@ -1,5 +1,5 @@
 # CollaboCanvas
-CollaboCanvas is a free, open-source real-time collaboration app for infinite canvas. Built with industry-standard technologies, it's easy for developers to contribute and users to self-host. Brainstorm, plan and visualize ideas with ease.
+A free, open-source alternative to Miro, offering real-time collaboration on an infinite canvas. Designed for brainstorming, planning, and visualization, it provides a user-friendly platform built with widely-known technologies for easy customization and self-hosting.
 
 ## **Features**
 
