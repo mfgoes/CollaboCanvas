@@ -8,10 +8,18 @@ Visit the product page here: https://mfgoes.github.io/CollaboCanvas/
 - Real-time collaboration
 - Infinite canvas
 - Basic shapes and text
+- Create multiple boards
 - Drag and drop functionality
 - Zoom and pan
 - Export and import as image or PDF
 - User authentication and authorization
+- Create a share link with an optional password
+
+### **Sub-features**
+- Undo changes
+- Change text sizes
+- Change shape colors
+- Add scalable post-its with adjustable colors 
 
 ## **Technology Stack**
 
